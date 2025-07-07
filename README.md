@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil de Frog
+## Bem-vindo(a) ao perfil de frog2484
 <div>
-   <a href="https://github.com/frog">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/frog24842484">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frog2484&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frog2484&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
